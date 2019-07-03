@@ -1,2 +1,2 @@
 # Git-Github
-# description 0f the repository
+description 0f the repository
